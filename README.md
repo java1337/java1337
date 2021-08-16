@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a seasoned software engineer and engineering manager.  I currently working on:
+- refactoring and migrating legacy Java monoliths to cloud-native micro-services
+- enjoying productivity benefits of Kotlin development
+- always looking to learn cool things
+- managing operations and devops using tools like AWS CloudFormation and bash
+- reach out to me on twitter at @java1337
+
+
+
 <!--
 **java1337/java1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
